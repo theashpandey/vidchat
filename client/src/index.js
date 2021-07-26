@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import CreateRoom from "./routes/CreateRoom";
+import Room from "./routes/Room";
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
